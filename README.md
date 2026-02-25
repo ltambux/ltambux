@@ -2,9 +2,9 @@
 <br/>// A bit more about myself:
 <br/>
 <br/>LT = {
-<br/>    code: ["C++", "C#", "Python"],
-<br/>    IDE: ["VS", "VSCode", "Rider", "PyCharm"],
-<br/>    education: ["ITTS Fedi Fermi", "Always work in progress"],
+<br/>&nbsp;    code: ["C++", "C#", "Python"],
+<br/>&nbsp;&nbsp;    IDE: ["VS", "VSCode", "Rider", "PyCharm"],
+<br/>&nbsp;    education: ["ITTS Fedi Fermi", "Always work in progress"],
 <br/>    interests: {
 <br/>        mainInterest: "coding",
 <br/>        sideInterest: "cybersecurity"
