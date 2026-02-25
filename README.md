@@ -1,16 +1,16 @@
 ## Hi there 🌚
-// A bit more about myself:
-<br/><br/><br/>
-LT = {
-    code: ["C++", "C#", "Python"],
-    IDE: ["VS", "VSCode", "Rider", "PyCharm"],
-    education: ["ITTS Fedi Fermi", "Always work in progress"],
-    interests: {
-        mainInterest: "coding",
-        sideInterest: "cybersecurity"
-    },
-    hobbies: ["driving", "cooking", "gaming"]
-};
+<br/>// A bit more about myself:
+<br/>
+<br/>LT = {
+<br/>    code: ["C++", "C#", "Python"],
+<br/>    IDE: ["VS", "VSCode", "Rider", "PyCharm"],
+<br/>    education: ["ITTS Fedi Fermi", "Always work in progress"],
+<br/>    interests: {
+<br/>        mainInterest: "coding",
+<br/>        sideInterest: "cybersecurity"
+<br/>    },
+<br/>    hobbies: ["driving", "cooking", "gaming"]
+<br/>};
 
 <!--
 **ltambux/ltambux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
